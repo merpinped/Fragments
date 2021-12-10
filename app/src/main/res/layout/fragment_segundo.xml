@@ -9,9 +9,9 @@
 
     tools:context=".fragments.PrimeraFragment">
 
-    <Button
+    <TextView
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:id="@+id/btn_ir_al_segundo_fragment"
-        android:text="Ir al segundo fragment" />
+        android:id="@+id/btn_ir_al_primer_fragment"
+        android:text="@string/hello_blank_fragment" />
 </LinearLayout>
